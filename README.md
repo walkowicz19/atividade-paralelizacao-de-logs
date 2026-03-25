@@ -27,7 +27,7 @@ A versão original realiza esse processamento de forma **serial**, resultando em
 
 | Item                        | Descrição                        |
 | --------------------------- | -------------------------------- |
-| Processador                 | 12th Gen Intel(R) Core(TM) i5-12500   3.00 GHz_ |
+| Processador                 | 12th Gen Intel(R) Core(TM) i5-12500   3.00 GHz |
 | Número de núcleos           | 12 Núcleos  |
 | Memória RAM                 | 16 GB DDR4          |
 | Sistema Operacional         | Windows 11 |
