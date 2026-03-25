@@ -2,7 +2,7 @@
 
 **Disciplina:** Programação Concorrente  
 **Aluno(s):** Matheus Nery Walkowicz  
-**Turma:** 202601  
+**Turma:** Noturno  
 **Professor:** Rafael Marconi Ramos
 **Data:** 25/03/2026  
 
