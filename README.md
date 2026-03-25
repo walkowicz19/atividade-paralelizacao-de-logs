@@ -27,13 +27,13 @@ A versão original realiza esse processamento de forma **serial**, resultando em
 
 | Item                        | Descrição                        |
 | --------------------------- | -------------------------------- |
-| Processador                 | _(preencher — ex: Intel Core i7-12700)_ |
-| Número de núcleos           | _(preencher — ex: 12 núcleos físicos)_  |
-| Memória RAM                 | _(preencher — ex: 16 GB DDR4)_          |
-| Sistema Operacional         | _(preencher — ex: Windows 11 / Ubuntu 24)_ |
-| Linguagem utilizada         | Python 3.x                       |
+| Processador                 | 12th Gen Intel(R) Core(TM) i5-12500   3.00 GHz_ |
+| Número de núcleos           | 12 Núcleos  |
+| Memória RAM                 | 16 GB DDR4          |
+| Sistema Operacional         | Windows 11 |
+| Linguagem utilizada         | Python                       |
 | Biblioteca de paralelização | `multiprocessing` (stdlib)       |
-| Versão Python               | _(preencher — ex: 3.12.x)_              |
+| Versão Python               | 3.13.2              |
 
 ---
 
