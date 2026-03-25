@@ -108,19 +108,19 @@ Onde **T(1) = 19.8888s** (tempo serial com threading de referência).
 
 # 7. Gráfico de Tempo de Execução
 
-![Gráfico Tempo Execução](grafico1.png)
+![Gráfico Tempo Execução](imagens/grafico1.png)
 
 ---
 
 # 8. Gráfico de Speedup
 
-![Gráfico Speedup](grafico2.png)
+![Gráfico Speedup](imagens/grafico2.png)
 
 ---
 
 # 9. Gráfico de Eficiência
 
-![Gráfico Eficiência](grafico3.png)
+![Gráfico Eficiência](imagens/grafico3.png)
 
 ---
 
